@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.3.33 (2020-06-29)
+
+**Note:** Version bump only for package @instaql/cli
+
+
+
+
+
 ## [0.3.32](https://github.com/instaql/instaql-db/compare/@instaql/cli@0.3.31...@instaql/cli@0.3.32) (2020-06-24)
 
 **Note:** Version bump only for package @instaql/cli

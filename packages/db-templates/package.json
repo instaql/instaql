@@ -1,6 +1,6 @@
 {
   "name": "@instaql/db-templates",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "templates",
   "author": "Dan Lynch <pyramation@gmail.com>",
   "homepage": "https://github.com/instaql/instaql-db/tree/master/packages/instaql-db-templates#readme",
@@ -61,6 +61,6 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.4.2",
-    "@instaql/db-utils": "^0.0.7"
+    "@instaql/db-utils": "^0.0.8"
   }
 }

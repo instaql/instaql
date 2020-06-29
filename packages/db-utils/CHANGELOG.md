@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.0.8 (2020-06-29)
+
+**Note:** Version bump only for package @instaql/db-utils
+
+
+
+
+
 ## [0.0.7](https://github.com/instaql/instaql-db/compare/@instaql/db-utils@0.0.6...@instaql/db-utils@0.0.7) (2020-06-19)
 
 **Note:** Version bump only for package @instaql/db-utils

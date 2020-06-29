@@ -1,6 +1,6 @@
 {
   "name": "@instaql/db-transform",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "transform",
   "author": "Dan Lynch <pyramation@gmail.com>",
   "homepage": "https://github.com/instaql/instaql-db/tree/master/packages/instaql-db-transform#readme",

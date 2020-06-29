@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.7.1 (2020-06-29)
+
+**Note:** Version bump only for package @instaql/explorer
+
+
+
+
+
 # [0.7.0](https://github.com/pyramation/instaql/compare/@instaql/server@0.6.1...@instaql/server@0.7.0) (2020-06-22)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "@instaql/explorer",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "graphile explorer module for multiple dbs and schemas",
   "author": "Dan Lynch <pyramation@gmail.com>",
   "homepage": "https://github.com/pyramation/instaql/tree/master/packages/instaql#readme",

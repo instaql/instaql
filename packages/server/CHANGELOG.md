@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.15.8 (2020-06-29)
+
+**Note:** Version bump only for package @instaql/server
+
+
+
+
+
 ## [0.15.7](https://github.com/pyramation/instaql/compare/@instaql/service@0.15.6...@instaql/service@0.15.7) (2020-06-24)
 
 

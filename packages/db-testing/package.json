@@ -1,6 +1,6 @@
 {
   "name": "@instaql/db-testing",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "testing",
   "author": "Dan Lynch <pyramation@gmail.com>",
   "homepage": "https://github.com/instaql/instaql-db/tree/master/packages/instaql-db-testing#readme",
@@ -63,7 +63,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.4.2",
-    "@instaql/db-utils": "^0.0.7",
+    "@instaql/db-utils": "^0.0.8",
     "pg": "6.4.0",
     "pg-promise": "6.10.3",
     "streamify-string": "1.0.1",

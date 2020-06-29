@@ -1,6 +1,6 @@
 {
   "name": "@instaql/db-env",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "instaql db env",
   "author": "Dan Lynch <pyramation@gmail.com>",
   "homepage": "https://github.com/instaql/instaql-db/tree/master/packages/instaql-db-env#readme",
