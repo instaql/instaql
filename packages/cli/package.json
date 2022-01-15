@@ -79,6 +79,6 @@
     "mkdirp": "0.5.1",
     "pg-promise": "8.2.1",
     "pgsql-parser": "0.6.10",
-    "shelljs": "0.8.1"
+    "shelljs": "0.8.5"
   }
 }
